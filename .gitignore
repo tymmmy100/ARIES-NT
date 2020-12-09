@@ -1,0 +1,4 @@
+node_modules
+./idea
+config/environment/development
+config/environment/production
